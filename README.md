@@ -30,7 +30,7 @@ The game tests the player's memory by generating random color sequences and incr
 
 ---
 ## 🌐 Live Demo
-
+https://sakshi242005.github.io/Simon-game/
 
 ---
 
